@@ -1,1 +1,47 @@
-./venv
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.pip/
+
+# IDEs
+.idea/
+.vscode/
+
+# Data
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.db
+*.sqlite
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Logs
+*.log
+*.out
+
+# System
+.DS_Store
+Thumbs.db
+
+# Git
+*.swp
+*.swo
