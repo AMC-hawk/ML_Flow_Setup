@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802528998681405492/8a4030d034d94947a5809ec11eeef85f/artifacts
+end_time: 1748688671265
+entry_point_name: ''
+experiment_id: '802528998681405492'
+lifecycle_stage: active
+run_id: 8a4030d034d94947a5809ec11eeef85f
+run_name: enchanting-ox-837
+run_uuid: 8a4030d034d94947a5809ec11eeef85f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748688671048
+status: 4
+tags: []
+user_id: anmol

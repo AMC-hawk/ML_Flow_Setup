@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/315278418229864472/092b0f1a44e1411c90a0e9784560856b/artifacts
+deleted_time: 1748686141946
+end_time: 1748686124199
+entry_point_name: ''
+experiment_id: '315278418229864472'
+lifecycle_stage: deleted
+run_id: 092b0f1a44e1411c90a0e9784560856b
+run_name: respected-grub-300
+run_uuid: 092b0f1a44e1411c90a0e9784560856b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748686124126
+status: 3
+tags: []
+user_id: anmol

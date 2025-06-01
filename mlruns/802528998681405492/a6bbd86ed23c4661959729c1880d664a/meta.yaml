@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802528998681405492/a6bbd86ed23c4661959729c1880d664a/artifacts
+end_time: 1748692743390
+entry_point_name: ''
+experiment_id: '802528998681405492'
+lifecycle_stage: active
+run_id: a6bbd86ed23c4661959729c1880d664a
+run_name: serious-mule-962
+run_uuid: a6bbd86ed23c4661959729c1880d664a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748692736747
+status: 3
+tags: []
+user_id: anmol

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802528998681405492/ec6b232e6b944c48a2cff05a37e19f65/artifacts
+end_time: 1748688701341
+entry_point_name: ''
+experiment_id: '802528998681405492'
+lifecycle_stage: active
+run_id: ec6b232e6b944c48a2cff05a37e19f65
+run_name: glamorous-perch-476
+run_uuid: ec6b232e6b944c48a2cff05a37e19f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748688690487
+status: 3
+tags: []
+user_id: anmol

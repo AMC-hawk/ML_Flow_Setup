@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802528998681405492/6511826bf8f9474aa8fdd1e0f53db4f2/artifacts
+end_time: 1748688998374
+entry_point_name: ''
+experiment_id: '802528998681405492'
+lifecycle_stage: active
+run_id: 6511826bf8f9474aa8fdd1e0f53db4f2
+run_name: popular-mouse-36
+run_uuid: 6511826bf8f9474aa8fdd1e0f53db4f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748688993098
+status: 3
+tags: []
+user_id: anmol
