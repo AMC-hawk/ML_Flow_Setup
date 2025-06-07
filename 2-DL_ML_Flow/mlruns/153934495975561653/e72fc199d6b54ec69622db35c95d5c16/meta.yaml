@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/153934495975561653/e72fc199d6b54ec69622db35c95d5c16/artifacts
+end_time: 1749313471427
+entry_point_name: ''
+experiment_id: '153934495975561653'
+lifecycle_stage: active
+run_id: e72fc199d6b54ec69622db35c95d5c16
+run_name: glamorous-fly-839
+run_uuid: e72fc199d6b54ec69622db35c95d5c16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749313446423
+status: 3
+tags: []
+user_id: anmol

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/153934495975561653/008c93a73e2c4d77a70c078097296fa1/artifacts
+end_time: 1749313495442
+entry_point_name: ''
+experiment_id: '153934495975561653'
+lifecycle_stage: active
+run_id: 008c93a73e2c4d77a70c078097296fa1
+run_name: capricious-mink-115
+run_uuid: 008c93a73e2c4d77a70c078097296fa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749313484875
+status: 3
+tags: []
+user_id: anmol

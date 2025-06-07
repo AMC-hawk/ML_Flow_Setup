@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/153934495975561653/674cfa3eadf44690ac5ebc39cc30ce2b/artifacts
+end_time: 1749313484765
+entry_point_name: ''
+experiment_id: '153934495975561653'
+lifecycle_stage: active
+run_id: 674cfa3eadf44690ac5ebc39cc30ce2b
+run_name: nebulous-cow-439
+run_uuid: 674cfa3eadf44690ac5ebc39cc30ce2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749313471514
+status: 3
+tags: []
+user_id: anmol

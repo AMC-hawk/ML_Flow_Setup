@@ -82,3 +82,18 @@ pip install mlflow
 ![image](https://github.com/user-attachments/assets/2252717c-612f-456f-b781-5a51a95e278e)
 
 ![image](https://github.com/user-attachments/assets/4195e77a-31f5-423a-b6d6-1ccdd4ed939e)
+
+
+
+
+
+
+Also, 
+
+In this we will have:
+
+1. Run a hyperparameter sweep on a training script
+2. Compare the results of the runs in the Mflow UI
+3. Choose the best run and register it as a Model
+4. Deploy the model to a REST API
+5. Build a container image suitable for deployment to a cloud platform
